@@ -1,0 +1,6 @@
+# palette for examples/sample.png: k=5, space=rgb, init=k-means++, seed=0, iterations=26, inertia=6305558.4
+#4C9F70  rgb(76, 159, 112)  31.7%
+#407CB1  rgb(64, 124, 177)  24.3%
+#3C7CB1  rgb(60, 124, 177)  24.1%
+#6B7F8E  rgb(107, 127, 142)  10.0%
+#E3C380  rgb(227, 195, 128)  9.8%
